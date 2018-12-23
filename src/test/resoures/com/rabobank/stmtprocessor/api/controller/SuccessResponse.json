@@ -1,0 +1,20 @@
+{
+	"response_status": {
+		"status_code": "1001",
+		"status_desc": "Duplicate Records Retrived Successfully"
+	},
+	"duplicate_refnumber_records": [
+		{
+			"reference": 112806,
+			"description": "Clothes for Willem Dekker"
+		},
+		{
+			"reference": 112806,
+			"description": "Clothes for Richard de Vries"
+		},
+		{
+			"reference": 112806,
+			"description": "Tickets from Richard Bakker"
+		}
+	]
+}
